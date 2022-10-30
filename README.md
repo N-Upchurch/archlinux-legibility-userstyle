@@ -1,4 +1,4 @@
-# archlinux-legibility-userstyle
+# archlinux.org Legibility Userstyle
 
 Enlarges text, increases margins, and reduces max line-width to try and make archlinux.org more legible. Only tested on firefox, on my system, so don't come at me if it looks terrible on yours.
 
