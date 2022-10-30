@@ -1,0 +1,27 @@
+@-moz-document domain("archlinux.org") {
+    #news div.article-content {
+        margin-bottom: 5rem;
+    }
+    #content {
+        font-size: 1.25rem;
+        max-width: 90rem;
+    }
+    #content-left {
+        margin-right: 35rem;
+    }
+    h4 a {
+        display: inline-block;
+        font-size: 1.75rem;
+        max-width: 50rem;
+        text-decoration: none;
+    }
+    #news h4 {
+        border-bottom: 0px;
+    }
+    table.results {
+        font-size: 1.25rem;
+    }
+   .results td {
+        padding-bottom: 1rem;
+    }
+}
