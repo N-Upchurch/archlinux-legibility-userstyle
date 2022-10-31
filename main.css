@@ -9,14 +9,31 @@
     #content-left {
         margin-right: 35rem;
     }
+    h1, h2 {
+        border-bottom: 0;
+    }
     h4 a {
         display: inline-block;
         font-size: 1.75rem;
         max-width: 50rem;
         text-decoration: none;
     }
+    .mw-parser-output h2 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+        margin-top: 5rem;
+    }
+    .mw-parser-output h3 {
+        margin-top: 3rem;
+    }
+    .mw-parser-output h4 {
+        margin-top: 2rem;
+    }
     #news h4 {
         border-bottom: 0px;
+    }
+    pre {
+        width: 56.325rem;
     }
     table.results {
         font-size: 1.25rem;
